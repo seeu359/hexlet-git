@@ -1,3 +1,4 @@
 INFO.md
 .pytest_cache
 *.xml
+/.idea
